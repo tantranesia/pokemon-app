@@ -62,7 +62,7 @@ function Home() {
       <Card className="w-75 mx-3 my-5" style={{ backgroundColor: " #eeebe3" }}>
         <div className="d-flex justify-content-center">
           <h1 className="mx-2 mt-5">
-            <b>Catch the</b>
+            <b>Find the</b>
           </h1>
           <img src={logo} alt="logo" className="w-25 h-auto" />
         </div>
